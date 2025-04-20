@@ -1,4 +1,4 @@
-# **A Tableau Dashboard for Smarter Fraud Detection** 
+# **A Tableau Dashboard for Smarter Fraud Detection By Surbhi** 
 
   In the fast-paced world of finance, fraud isn’t just a threat—it’s a moving target. With millions of transactions happening every day, catching fraudulent activity quickly and accurately is critical. This       Tableau project dives deep into transaction data to uncover risky patterns, spot vulnerabilities, and help financial institutions stay one step ahead.
   
